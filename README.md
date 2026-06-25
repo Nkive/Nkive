@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Nika!
 
-🎓 **Software Engineering & Management Student** @ University of Gothenburg (Expected Graduation: June 2026)  
+🎓 **Software Engineering & Management Graduated** @ University of Gothenburg  
 💻 **IT Consultant** @ Chalmers Teknologskonsulter & **Project Manager Intern** @ Gaddr  
 🧠 Passionate about problem-solving, team collaboration, and building impactful digital systems.
 
